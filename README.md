@@ -1,2 +1,2 @@
-# stepik_auto_tests_course
-homework
+# stepik
+Задания по курсу автоматического тестирования на Selenium со Stepik
